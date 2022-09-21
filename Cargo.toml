@@ -1,0 +1,9 @@
+[package]
+name = "spameth"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ethers = "0.17.0"
+hex = "0.4.3"
+thiserror = "=1.0.34"
